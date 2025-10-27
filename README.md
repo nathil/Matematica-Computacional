@@ -1,6 +1,9 @@
 <h1 align="center"> Matemática Computacional </h1> 
 <p align="center"><i> Neste repositório serão armazenadas as atividades/anotações propostas nas aulas de Matemática Computacional, em conjunto com os códigos feitos na linguagem python</i></p>
 
+## Atividades 📝
+- [Atividade 0](https://github.com/nathil/Matematica-Computacional/blob/main/Trabalhos/Atividade_0.ipynb) - **Rotação e Cisalhamento**  (*Transformações Lineares*)
+
 ## Bibliotecas Utilizadas 📚
 * `numpy` 
 * `matplotlib`

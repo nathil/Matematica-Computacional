@@ -3,6 +3,7 @@
 
 ## Atividades 📝
 - [Atividade 0](https://github.com/nathil/Matematica-Computacional/blob/main/Trabalhos/Atividade_0.ipynb) - **Rotação e Cisalhamento**  (*Transformações Lineares*)
+- [Atividade 1](https://github.com/nathil/Matematica-Computacional/blob/main/Trabalhos/Atividade_1.ipynb) - **Rotação, Cisalhamento e Determinante**  (*Transformações Lineares e Determinante*)
 
 ## Bibliotecas Utilizadas 📚
 * `numpy` 

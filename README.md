@@ -13,7 +13,7 @@
 * `pandas`
 * `tabulate`
 * `math`
-* * `random`
+* `random`
 
 <h2> Ferramentas 🛠️</h2> 
 <p display="inline-block">

@@ -6,7 +6,8 @@
 - [Atividade 1](https://github.com/nathil/Matematica-Computacional/blob/main/Trabalhos/Atividade_1.ipynb) - **Rotação, Cisalhamento e Determinante**  (*Transformações Lineares e Determinante*)
 - [Atividade 2](https://github.com/nathil/Matematica-Computacional/blob/main/Trabalhos/Atividade_2.ipynb) - **Aprendizado de Redes Neurais**  (*Gradiente Descendente, Redes Neurais, Minibatch*)
 - [Atividade 2.1](https://github.com/nathil/Matematica-Computacional/blob/main/Trabalhos/Atividade_2_1.ipynb) - **Zeros e Reais de Funções**  (*Métodos de Aproximação e Equações Polinomiais*)
-
+- [Atividade 2.2](https://github.com/nathil/Matematica-Computacional/blob/main/Trabalhos/Atividade_2_2_.ipynb) - **Regressão Linear, Intervalos de Confiança e Resolução de Sistemas Lineares**  (*Regressão Linear, p-value e Métricas*)
+  
 ## Bibliotecas Utilizadas 📚
 * `numpy` 
 * `matplotlib`

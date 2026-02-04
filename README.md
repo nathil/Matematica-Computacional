@@ -15,6 +15,9 @@
 * `tabulate`
 * `math`
 * `random`
+* `scipy`
+* `statsmodels`
+* `scikit learn`
 
 <h2> Ferramentas 🛠️</h2> 
 <p display="inline-block">
